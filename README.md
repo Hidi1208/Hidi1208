@@ -1,16 +1,13 @@
-## Hi there 👋
+# Aniruddha Deshmukh
 
-<!--
-**Hidi1208/Hidi1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech EEE @ VIT Vellore · Embedded Systems · TinyML · Hardware Design
 
-Here are some ideas to get you started:
+Currently building things at the intersection of firmware, intelligent computation, and PCB design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- **PEARL** — LLM-powered embedded diagnostics on STM32 + RPi 5
+- **Self-Describing TinyML Modules** — hot-swappable neural networks stored in EEPROM, universal ESP32 runtime
+- **PCB Portfolio** — mechanical keyboard, macropad, USB-C PD hub (KiCad)
+
+
+📫 anidesh1208@gmail.com · [Portfolio](your-link-here)
