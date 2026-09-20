@@ -10,4 +10,4 @@ Currently building things at the intersection of firmware, intelligent computati
 - **PCB Portfolio** — mechanical keyboard, macropad, USB-C PD hub (KiCad)
 
 
-📫 anidesh1208@gmail.com · [Portfolio](your-link-here)
+📫 anidesh1208@gmail.com · [Portfolio](https://hidi1208.github.io)
